@@ -1,75 +1,214 @@
-<header>
+<!DOCTYPE html>
+<html lang="en" style="overflow-x : hidden;width:100%;position:relative;" >
+   <head>
+      <link rel="shortcut icon" href="wed_logo.png" type="image/png"> 
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+      <meta name="description"
+         content="With the divine grace of the almighty, inviting you and your family to AISWARYA S NAIR and VISHNU T C's wedding to be held on 7th September 2022 at SN Auditorium, Neyyattinkara between 9.45 am and 10.15 am">
+      <meta name="author" content="ASWIN S NAIR">
+      <meta name="email" content="snair.aswin@gmail.com">
+      <meta name="copyright" content="ASWIN original copyright to Vinit Shahdeo" />
+      <meta property="og:type" content="website" />
+      <meta property="og:title" content="Wedding Invitation | AISWARYA S NAIR weds VISHNU T C | 7th September 2022 | SN Auditorium, Neyyattinkara" />
+      <meta property="og:description"
+         content="With the divine grace of the almighty, inviting you and your family to AISWARYA S NAIR and VISHNU T C's wedding to be held on 7th September 2022 at SN Auditorium, Neyyattinkara between 9.45 am and 10.15 am" />
+      <meta property="og:image" content="https://raw.githubusercontent.com/ASWIN-S-NAIR/aiswaryamalu2022/raw/invitation/invitation.jpg" />
+      <meta property="og:url" content="" />
+      <meta property="og:site_name" content="Wedding Invitation| AISWARYA S NAIR weds VISHNU T C | 7th September 2022" />
+      <meta name="twitter:card" content="website">
+      <meta name="twitter:site" content="Wedding Invitation | AISWARYA S NAIR weds VISHNU T C | 7th September 2022">
+      <meta name="twitter:title" content="Wedding Invitation | AISWARYA S NAIR weds VISHNU T C | 7th September 2022">
+      <meta name="twitter:description"
+         content="We are inviting you and your family to AISWARYA S NAIR and VISHNU T C's wedding to be held on  7th September 2022 at SN Auditorium, Neyyattinkara between 9.45 am and 10.15 am">
+      <meta name="twitter:creator" content="@ASWIN-S-NAIR">
+      <meta name="twitter:image" content="https://raw.githubusercontent.com/ASWIN-S-NAIR/aiswaryamalu2022/raw/invitation/invitation.jpg">
 
+      <title>AISWARYA S NAIR weds VISHNU T C</title>
+
+      <link href="https://fonts.googleapis.com/css?family=Arvo" rel="stylesheet">
+      <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Dancing+Script&amp;display=swap'>
+      <link rel="stylesheet" href="./css/style.css">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+   </head>
+   <body>
+   <div class="parentContainer">
+   <div class = "lettter">
+      <!-- partial:index.partial.html -->
+      <div class="sakura-falling"></div>
+      <img src="https://i.imgur.com/dGOOfnA.png" alt="image-top-right" class="top-right-decoration">
+      <img src="https://i.imgur.com/t6ffnbn.png" alt="image-top-left" class="top-left-decoration"> 
+      <section id="media"></section>
+      <div class="topImg"><div class="image-cropper">
+      <img src="assets/img/for_web.jpg" class="image-cropper__image" />
+      </div></div>
+      <div class="wrap">
+         <div class="title">
+           <h1>AISWARYA S NAIR</h1>
+            <h2>&</h2>
+            <h1>VISHNU T C</h1>
+            <h3>Are getting married</h3>
+            <p>
+               on <span class="date">7th September 2022</span> <br><br/> Muhoortham between <span class="date"> 9.45 am and 10.15 am </span> <br/><br/> At <span class="place"> SN Auditorium, Neyyattinkara </span>
+               <span class="time"></span>
+            </p>
+         </div>
+      </div>
+	<div class="venueParent">
+      <div class="actions">
+        <a href="https://goo.gl/maps/ALiC9g17xpQYtwDq9" style="width:fit-content;" target="_blank">
+          <div class="venue1">TAP HERE FOR VENUE</div>
+        </a>
+        </div>
+	</div>
+        
+      <div class="timeParent"><div id="time"></div></div>
+      <p class="dance-med">
+         Reception:
+      </p>
+      <p class="place1">
+            <span class="place1">Sree Bhagavathy Auditorium, Kizkakke Chenkal</span>
+       <br><br/>
+        On <span class="date1">September 6th, from 4.30 pm onwards
+      <div class="receptionParent">
+	  <div class="actions">
+        <a href="https://goo.gl/maps/97ccTWTXyBP87yEAA" target="_blank">
+          <div class="venue">RECEPTION VENUE</div>
+        </a>
+        <a href="https://github.com/ASWIN-S-NAIR/aiswaryamalu2022/raw/master/invitation/invitation.pdf" download="Invitation | 7 Sept | Hope to see you there!">
+          <div class="venue">DOWNLOAD INVITATION CARD</div>
+        </a>
+      </div>
+	  </div>
+      
+      <p class="footer">
+         Can't wait to celebrate auspicious moment of our family with you! <br>
+         Just a ping away for any queries:<br/><br/><b><i class="fa fa-whatsapp"></i> <a href="https://wa.me/919747549692" target="_blank"> +91 97475 49692</a><b/>
+         <span></span>
+      </p>
 <!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+      <div class="slideshow-container">
 
-# Introduction to GitHub
+        <div class="mySlides fade">
+        <div class="numbertext">1 / 3</div>
+        <img src="img_nature_wide.jpg" style="width:100%">
+        <div class="text">Caption Text</div>
+        </div>
+<div class ="slideContainer alignCenter">
+        <div class="mySlides fade">
+        <img src="assets/img/1.JPG" style="width:100%">
+        </div>
+        <div class="mySlides fade">
+        <img src="assets/img/2.JPG" style="width:100%">
+        </div>
+        <div class="mySlides fade">
+        <img src="assets/img/3.JPG" style="width:100%">
+        </div>
+        <div class="mySlides fade">
+        <img src="assets/img/4.JPG" style="width:100%">
+        </div>
+        <div class="mySlides fade">
+        <img src="assets/img/5.JPG" style="width:100%">
+        </div>
+        <div class="mySlides fade">
+        <img src="assets/img/6.JPG" style="width:100%">
+        </div>
+        <div class="mySlides fade">
+        <img src="assets/img/7.JPG" style="width:100%">
+        </div>
+        <div class="mySlides fade">
+        <img src="assets/img/8.JPG" style="width:100%">
+        </div>
+        <div class="mySlides fade">
+        <img src="assets/img/9.JPG" style="width:100%">
+        </div>
+        <div class="mySlides fade">
+        <img src="assets/img/10.JPG" style="width:100%">
+        </div>
+        <div class="mySlides fade">
+        <img src="assets/img/11.JPG" style="width:100%">
+        </div>
+        <div class="mySlides fade">
+        <img src="assets/img/12.JPG" style="width:100%">
+        </div>
+        <div class="mySlides fade">
+        <img src="assets/img/13.JPG" style="width:100%">
+        </div>
+        <div class="mySlides fade">
+        <img src="assets/img/14.JPG" style="width:100%">
+        </div>
+        <div class="mySlides fade">
+        <img src="assets/img/15.JPG" style="width:100%">
+        </div>
+        <div class="mySlides fade">
+        <img src="assets/img/16.JPG" style="width:100%">
+        </div>
+        <div class="mySlides fade">
+        <img src="assets/img/17.JPG" style="width:100%">
+        </div>
+        <div class="mySlides fade">
+        <img src="assets/img/18.JPG" style="width:100%">
+        </div>
+        <div class="mySlides fade">
+        <img src="assets/img/19.JPG" style="width:100%">
+        </div>
+        <div class="mySlides fade">
+        <img src="assets/img/20.JPG" style="width:100%">
+        </div>
+        <div class="mySlides fade">
+        <img src="assets/img/21.JPG" style="width:100%">
+        </div>
+        <div class="mySlides fade">
+        <img src="assets/img/22.JPG" style="width:100%">
+        </div>
+        <div class="mySlides fade">
+        <img src="assets/img/23.JPG" style="width:100%">
+        </div>
+        <div class="mySlides fade">
+        <img src="assets/img/24.JPG" style="width:100%">
+        </div>
 
-_Get started using GitHub in less than an hour._
+        </div>
+      </div>
 
-</header>
+        <div style="text-align:center">
+        <span class="dot"></span> 
+        <span class="dot"></span> 
+        <span class="dot"></span> 
+        </div>
+      -->
+      
+       <p class="happiness">Join us in our happiness!</p>
+      <p class="footer">
+         <span class="dance-med2">Best wishes from Aswin S. Nair</span>
+      </p>
+      
+      <div class="music">
+      <audio src="./assets/mp3/musicnw.aac" id="my_audio" loop="loop" autoplay   ></audio>
+		
+		
+	</iframe> 
+	
+      </div>
+</div>
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+<div class = "cover" id="cover" onclick="animateOpen();">
+<div class="coverTop" id="leftpanel">
+<div class ="coverTitle"><b> AISWARYA S NAIR <br>weds<br> VISHNU T C</b></div>
+</div>
 
-## Step 1: Create a branch
-
-_Welcome to "Introduction to GitHub"! :wave:_
-
-**What is GitHub?**: GitHub is a collaboration platform that uses _[Git](https://docs.github.com/get-started/quickstart/github-glossary#git)_ for versioning. GitHub is a popular place to share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
-<br>:tv: [Video: What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
-
-**What is a repository?**: A _[repository](https://docs.github.com/get-started/quickstart/github-glossary#repository)_ is a project containing files and folders. A repository tracks versions of files and folders. For more information, see "[About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)" from GitHub Docs.
-
-**What is a branch?**: A _[branch](https://docs.github.com/en/get-started/quickstart/github-glossary#branch)_ is a parallel version of your repository. By default, your repository has one branch named `main` and it is considered to be the definitive branch. Creating additional branches allows you to copy the `main` branch of your repository and safely make any changes without disrupting the main project. Many people use branches to work on specific features without affecting any other parts of the project.
-
-Branches allow you to separate your work from the `main` branch. In other words, everyone's work is safe while you contribute. For more information, see "[About branches](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)".
-
-**What is a profile README?**: A _[profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)_ is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on GitHub.com. GitHub shows your profile README at the top of your profile page. For more information, see "[Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)".
-
-![profile-readme-example](/images/profile-readme-example.png)
-
-### :keyboard: Activity: Your first branch
-
-1. Open a new browser tab and navigate to your newly made repository. Then, work on the steps in your second tab while you read the instructions in this tab.
-2. Navigate to the **< > Code** tab in the header menu of your repository.
-
-   ![code-tab](/images/code-tab.png)
-
-3. Click on the **main** branch drop-down.
-
-   ![main-branch-dropdown](/images/main-branch-dropdown.png)
-
-4. In the field, name your branch `my-first-branch`. In this case, the name must be `my-first-branch` to trigger the course workflow.
-5. Click **Create branch: my-first-branch** to create your branch.
-
-   ![create-branch-button](/images/create-branch-button.png)
-
-   The branch will automatically switch to the one you have just created.
-   The **main** branch drop-down bar will reflect your new branch and display the new branch name.
-
-6. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+<div class="coverBottom" id="rightpanel">
+</div>
+</div>
+<div class="openOverlay" id="opovrlay" onclick="animateOpen();" >
+<img src = "assets/img/openimgg.png" width="100px" height="100x"><span class="open">Open</span>
+</div>
+<p class="footer1"> Modified by &ensp;<i class="fa fa-github"></i>&nbsp;<a href="https://github.com/ASWIN-S-NAIR" target="_blank" class="twitter"> ASWIN S NAIR</a>  &ensp; <b>•</b>  &ensp;<a href="https://github.com/ASWIN-S-NAIR/aiswaryamalu2022">Source Code</a> &ensp; <b>•</b> &ensp; <a href="https://github.com/vinitshahdeo/Wedding-Invitation"> Original repo </a>
+      </p>
+</div>
+      <!-- partial -->
+      <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js'></script>
+      <script src='https://cdn.jsdelivr.net/gh/timoschaefer/jQuery-Sakura/jquery-sakura.min.js'></script>
+      <script  src="./js/script.js"></script>
+   </body>
+</html>

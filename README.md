@@ -15,16 +15,16 @@
          content="With the divine grace of the almighty, inviting you and your family to ASWATHY C B and RAJESH's wedding to be held on 2nd November 2023 at Sree Narayana Guru Temple, Aruvippuram between 10:00 am and 10:00 am" />
       <meta property="og:image" content="https://raw.githubusercontent.com/ASWIN-S-NAIR/aiswaryamalu2022/raw//invitation.jpg" />
       <meta property="og:url" content="" />
-      <meta property="og:site_name" content="Wedding Invitation| AISWARYA S NAIR weds VISHNU T C | 7th September 2022" />
+      <meta property="og:site_name" content="Wedding Invitation| ASWATHY C B weds RAJESH | 7th September 2022" />
       <meta name="twitter:card" content="website">
-      <meta name="twitter:site" content="Wedding Invitation | AISWARYA S NAIR weds VISHNU T C | 7th September 2022">
-      <meta name="twitter:title" content="Wedding Invitation | AISWARYA S NAIR weds VISHNU T C | 7th September 2022">
+      <meta name="twitter:site" content="Wedding Invitation | ASWATHY C B weds RAJESH | 7th September 2022">
+      <meta name="twitter:title" content="Wedding Invitation | ASWATHY C B weds RAJESH | 7th September 2022">
       <meta name="twitter:description"
-         content="We are inviting you and your family to AISWARYA S NAIR and VISHNU T C's wedding to be held on  7th September 2022 at SN Auditorium, Neyyattinkara between 9.45 am and 10.15 am">
+         content="We are inviting you and your family to ASWATHY C B and RAJESH's wedding to be held on  7th September 2022 at SN Auditorium, Neyyattinkara between 9.45 am and 10.15 am">
       <meta name="twitter:creator" content="@ASWIN-S-NAIR">
       <meta name="twitter:image" content="https://raw.githubusercontent.com/ASWIN-S-NAIR/aiswaryamalu2022/raw/invitation/invitation.jpg">
 
-      <title>AISWARYA S NAIR weds VISHNU T C</title>
+      <title>ASWATHY C B weds RAJESH </title>
 
       <link href="https://fonts.googleapis.com/css?family=Arvo" rel="stylesheet">
       <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Dancing+Script&amp;display=swap'>
@@ -44,12 +44,12 @@
       </div></div>
       <div class="wrap">
          <div class="title">
-           <h1>AISWARYA S NAIR</h1>
+           <h1>ASWATHY C B</h1>
             <h2>&</h2>
-            <h1>VISHNU T C</h1>
+            <h1>RAJESH</h1>
             <h3>Are getting married</h3>
             <p>
-               on <span class="date">7th September 2022</span> <br><br/> Muhoortham between <span class="date"> 9.45 am and 10.15 am </span> <br/><br/> At <span class="place"> SN Auditorium, Neyyattinkara </span>
+               on <span class="date">2nd November 2023</span> <br><br/> Muhoortham between <span class="date"> 10.00 am and 10.30 am </span> <br/><br/> At <span class="place"> Aruvippuram Temple </span>
                <span class="time"></span>
             </p>
          </div>

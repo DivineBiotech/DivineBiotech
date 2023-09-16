@@ -5,15 +5,15 @@
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
       <meta name="description"
-         content="With the divine grace of the almighty, inviting you and your family to AISWARYA S NAIR and VISHNU T C's wedding to be held on 7th September 2022 at SN Auditorium, Neyyattinkara between 9.45 am and 10.15 am">
-      <meta name="author" content="ASWIN S NAIR">
-      <meta name="email" content="snair.aswin@gmail.com">
+         content="With the divine grace of the almighty, inviting you and your family to ASWATHY C B and RAJESH 's wedding to be held on  2nd November 2023 at Sree Narayana Guru Temple, Aruvippuram between 10.00 am and 10.30 am">
+      <meta name="author" content="ASWIN C B ">
+      <meta name="email" content="divinebiotech007@gmail.com">
       <meta name="copyright" content="ASWIN original copyright to Vinit Shahdeo" />
       <meta property="og:type" content="website" />
-      <meta property="og:title" content="Wedding Invitation | AISWARYA S NAIR weds VISHNU T C | 7th September 2022 | SN Auditorium, Neyyattinkara" />
+      <meta property="og:title" content="Wedding Invitation | ASWATHY C B weds RAJESH | 2nd November 2023 | Aruvippuram Temple, Thiruvananthapuram" />
       <meta property="og:description"
-         content="With the divine grace of the almighty, inviting you and your family to AISWARYA S NAIR and VISHNU T C's wedding to be held on 7th September 2022 at SN Auditorium, Neyyattinkara between 9.45 am and 10.15 am" />
-      <meta property="og:image" content="https://raw.githubusercontent.com/ASWIN-S-NAIR/aiswaryamalu2022/raw/invitation/invitation.jpg" />
+         content="With the divine grace of the almighty, inviting you and your family to ASWATHY C B and RAJESH's wedding to be held on 2nd November 2023 at Sree Narayana Guru Temple, Aruvippuram between 10:00 am and 10:00 am" />
+      <meta property="og:image" content="https://raw.githubusercontent.com/ASWIN-S-NAIR/aiswaryamalu2022/raw//invitation.jpg" />
       <meta property="og:url" content="" />
       <meta property="og:site_name" content="Wedding Invitation| AISWARYA S NAIR weds VISHNU T C | 7th September 2022" />
       <meta name="twitter:card" content="website">
